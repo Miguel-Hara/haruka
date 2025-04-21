@@ -269,8 +269,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
-
-Bʏ @BinaryQuest</b>"""
+</b>"""
 
     LOGO = """
 
